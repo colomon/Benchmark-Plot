@@ -1,0 +1,8 @@
+{
+    "name"        : "Benchmark::Plot",
+    "version"     : "*",
+    "description" : "Simple benchmark graphing script",
+    "depends"     : ["SVG", "SVG::Plot"],
+    "repo-type"   : "git",
+    "repo-url"    : "git://github.com/colomon/Benchmark-Plot.git"
+}
